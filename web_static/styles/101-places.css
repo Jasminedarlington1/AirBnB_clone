@@ -118,7 +118,7 @@
 .places article .amenities ul li,
 .places article .reviews ul li{
 	background-position: top left;
-  background-size: 30px;
+       	background-size: 30px;
 	background-repeat: no-repeat;
 	list-style-type: none;
 }
@@ -129,7 +129,19 @@
 .places article .reviews ul li p{
 	font-size: 12px;
 }
+.icon_wifi{
+	background-image: url("../images/icon_wifi.png");
+  
+}
+.icon_tv{
+	background-image: url("../images/icon_tv.png");
+  
+}
+.icon_pets{
+	background-image: url("../images/icon_pets.png");
+  
+}
 
 footer {
    position: relative;
- }
+}
